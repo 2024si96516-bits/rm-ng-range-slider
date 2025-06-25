@@ -9,7 +9,7 @@
 
 ___
 
-# RmNgStarRating for Angular
+# Rm Ng Range Slider for Angular
 
 A highly optimized and fully customizable pure angular component for value range selection.
 
@@ -18,6 +18,8 @@ Even if there is a label, only the label component is re-rendered when values ar
 
 RangeSlider uses angular Native's Animated library to transform thumbs / label / selected rail.
 These optimizations help to achieve as much native look & feel as possible using only the JS layer.
+
+If you like this plugin, please give it a star ⭐.
 
 
 ## Installation
@@ -43,7 +45,6 @@ import {RmNgRangeSliderComponent} from "rm-ng-range-slider";
 
 @Component({
   selector: 'app-root',
-  standalone: true,
   imports: [RmNgRangeSliderComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
@@ -74,6 +75,7 @@ export class AppComponent {
 | Slider | Ng   |
 |--------|------|
 | 1.0.0  | 18.x |
+| 2.0.0  | 19.x |
 
 ### Properties
 
