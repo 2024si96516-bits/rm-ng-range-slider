@@ -9,7 +9,7 @@
 
 ___
 
-# Rm Ng Range Slider for Angular
+# Rm Ng Range Slider for Angular New
 
 A highly optimized and fully customizable pure angular component for value range selection.
 
